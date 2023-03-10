@@ -1,8 +1,10 @@
 # programa para identificar el indice de masa corporal 
 
+print("-------------------------------------")
+print("------INDICE DE MASA CORPORAL--------")
+print("-------------------------------------")
 
 
-import math
 #intput
 
 p = int(input("ingrese el valor del peso en kg: "))
